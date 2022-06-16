@@ -1,0 +1,6 @@
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\five\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\five\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\five\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\five\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\five\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\five\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

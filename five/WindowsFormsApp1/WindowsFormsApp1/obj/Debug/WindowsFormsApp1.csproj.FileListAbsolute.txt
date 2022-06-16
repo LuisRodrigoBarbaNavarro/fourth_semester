@@ -1,0 +1,19 @@
+C:\Users\G2-25\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\G2-25\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\G2-25\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\G2-25\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\G2-25\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\G2-25\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\G2-25\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\G2-25\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\G2-25\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\G2-25\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\five\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\five\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\five\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\five\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\five\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\five\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\five\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\five\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\five\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
