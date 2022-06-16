@@ -1,6 +1,0 @@
-C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\two\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
-C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\two\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
-C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\two\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
-C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\two\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
-C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\two\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
-C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\two\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

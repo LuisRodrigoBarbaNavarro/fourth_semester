@@ -1,5 +1,0 @@
-C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\two\ConsoleApplication4\bin\Debug\ConsoleApplication.exe
-C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\two\ConsoleApplication4\bin\Debug\ConsoleApplication.pdb
-C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\two\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
-C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\two\ConsoleApplication4\obj\x86\Debug\ConsoleApplication.exe
-C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\two\ConsoleApplication4\obj\x86\Debug\ConsoleApplication.pdb
