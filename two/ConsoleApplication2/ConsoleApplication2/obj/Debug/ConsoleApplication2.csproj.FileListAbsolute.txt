@@ -1,0 +1,19 @@
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\IMAGEN\Desktop\potential-octo-spoon-master\fourth_semester\two\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\IMAGEN\Desktop\potential-octo-spoon-master\fourth_semester\two\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\IMAGEN\Desktop\potential-octo-spoon-master\fourth_semester\two\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\IMAGEN\Desktop\potential-octo-spoon-master\fourth_semester\two\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.AssemblyReference.cache
+C:\Users\IMAGEN\Desktop\potential-octo-spoon-master\fourth_semester\two\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+C:\Users\IMAGEN\Desktop\potential-octo-spoon-master\fourth_semester\two\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\IMAGEN\Desktop\potential-octo-spoon-master\fourth_semester\two\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\two\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\two\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\two\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\two\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\two\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\luisr\OneDrive\Escritorio\Workspace\GitHub\Correo Institucional\fourth_semester\two\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
