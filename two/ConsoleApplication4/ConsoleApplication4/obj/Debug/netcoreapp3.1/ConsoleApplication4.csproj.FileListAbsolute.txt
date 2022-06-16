@@ -1,0 +1,14 @@
+C:\Users\IMAGEN\Downloads\ConsoleApplication4\ConsoleApplication4\bin\Debug\netcoreapp3.1\ConsoleApplication4.exe
+C:\Users\IMAGEN\Downloads\ConsoleApplication4\ConsoleApplication4\bin\Debug\netcoreapp3.1\ConsoleApplication4.deps.json
+C:\Users\IMAGEN\Downloads\ConsoleApplication4\ConsoleApplication4\bin\Debug\netcoreapp3.1\ConsoleApplication4.runtimeconfig.json
+C:\Users\IMAGEN\Downloads\ConsoleApplication4\ConsoleApplication4\bin\Debug\netcoreapp3.1\ConsoleApplication4.runtimeconfig.dev.json
+C:\Users\IMAGEN\Downloads\ConsoleApplication4\ConsoleApplication4\bin\Debug\netcoreapp3.1\ConsoleApplication4.dll
+C:\Users\IMAGEN\Downloads\ConsoleApplication4\ConsoleApplication4\bin\Debug\netcoreapp3.1\ConsoleApplication4.pdb
+C:\Users\IMAGEN\Downloads\ConsoleApplication4\ConsoleApplication4\obj\Debug\netcoreapp3.1\ConsoleApplication4.csproj.AssemblyReference.cache
+C:\Users\IMAGEN\Downloads\ConsoleApplication4\ConsoleApplication4\obj\Debug\netcoreapp3.1\ConsoleApplication4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMAGEN\Downloads\ConsoleApplication4\ConsoleApplication4\obj\Debug\netcoreapp3.1\ConsoleApplication4.AssemblyInfoInputs.cache
+C:\Users\IMAGEN\Downloads\ConsoleApplication4\ConsoleApplication4\obj\Debug\netcoreapp3.1\ConsoleApplication4.AssemblyInfo.cs
+C:\Users\IMAGEN\Downloads\ConsoleApplication4\ConsoleApplication4\obj\Debug\netcoreapp3.1\ConsoleApplication4.csproj.CoreCompileInputs.cache
+C:\Users\IMAGEN\Downloads\ConsoleApplication4\ConsoleApplication4\obj\Debug\netcoreapp3.1\ConsoleApplication4.dll
+C:\Users\IMAGEN\Downloads\ConsoleApplication4\ConsoleApplication4\obj\Debug\netcoreapp3.1\ConsoleApplication4.pdb
+C:\Users\IMAGEN\Downloads\ConsoleApplication4\ConsoleApplication4\obj\Debug\netcoreapp3.1\ConsoleApplication4.genruntimeconfig.cache
